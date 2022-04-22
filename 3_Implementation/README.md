@@ -1,4 +1,6 @@
-.code
+.Calculator code
+
+
 #include<avr/io.h>
 #include <LiquidCrystal.h> 
 #include <Keypad.h> 
