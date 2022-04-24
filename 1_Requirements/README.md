@@ -24,4 +24,22 @@
  
  
  .SWOT Analysis
+ 
+ .Strengths
+ 
+ The ultimate strength of Calculators is that its innovative and user-friendly product. It promotes the higher-order thinking and reasoning needed for problem solving.
+  
+ .Weakness
+ 
+  people don’t rely on purchasing calculators seperately as this facility is available in other handy multifunctional devices.
+  
+  .opportunities
+  
+  The tech-based market has a huge opportunities in capturing the youth market. And Calculator is comparatively already one step ahead. Because since the beginning of childhood, we got introduced to Calculators as a helping partner in mathematics. Also there are various other types of calculators available which is beneficial in many other ways.
+  
+  .Threats
+  
+  Threats is again the same fact that there are many other multifunctional devices available such as mobile phone which can easily replace calculators.
+ 
+ 
 
